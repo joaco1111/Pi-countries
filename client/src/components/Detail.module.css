@@ -1,0 +1,17 @@
+.container {
+    background-color: rgba(25, 99, 68, 0.678);
+    width: 400px; /* Ancho de la tarjeta */
+    height: 610px; /* Altura de la tarjeta */
+    border: 3px solid #000000; /* Borde de la tarjeta */
+    border-radius: 8px; /* Radio de borde para esquinas redondeadas */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Sombra */
+    padding: 20px; /* Espaciado interno */
+    background-color: #277c52a9; /* Color de fondo */
+    margin: 0 auto; /* Centrado horizontal y vertical */
+}
+.button {
+    width: 100px;
+    height: 50px;
+    border-radius: 5px;
+    background-color: rgb(61, 153, 0);
+}
